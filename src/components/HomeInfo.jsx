@@ -35,16 +35,16 @@ const renderContent = {
   ),
   3: (
     <InfoBox
-      text="Projects"
-      link="/projects"
-      btnText="Visit my portfolio"
+      text="Want me a part of your team? I'm just few key strokes away!"
+      link="/contact"
+      btnText="Let's talk"
     />
   ),
   4: (
     <InfoBox
-      text="Contect"
-      link="/contact"
-      btnText="Let's connect"
+      text="Worked on many projects, still challanging myself..."
+      link="/projects"
+      btnText="Visit my portfolio"
     />
   ),
 };
