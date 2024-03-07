@@ -23,7 +23,18 @@ import {
     summiz,
     tailwindcss,
     threads,
-    typescript
+    typescript,
+    django,
+    flask,
+    firebase,
+    sqlite,
+    android_studio,
+    flutter,
+    axios,
+    styled_component,
+    mysql,
+    postman,
+    threejs,
 } from "../assets/icons";
 
 export const skills = [
@@ -33,8 +44,93 @@ export const skills = [
         type: "Frontend",
     },
     {
-        imageUrl: express,
-        name: "Express",
+        imageUrl: html,
+        name: "HTML",
+        type: "Frontend",
+    },
+    {
+        imageUrl: javascript,
+        name: "JavaScript",
+        type: "Frontend",
+    },
+    {
+        imageUrl: typescript,
+        name: "TypeScript",
+        type: "Frontend",
+    },
+    {
+        imageUrl: mui,
+        name: "Material-UI",
+        type: "Frontend",
+    },
+    {
+        imageUrl: nextjs,
+        name: "Next.js",
+        type: "Frontend",
+    },
+    {
+        imageUrl: react,
+        name: "React",
+        type: "Frontend",
+    },
+    {
+        imageUrl: flutter,
+        name: "Flutter",
+        type: "Frontend",
+    },
+    {
+        imageUrl: tailwindcss,
+        name: "Tailwind CSS",
+        type: "Frontend",
+    },
+    {
+        imageUrl: styled_component,
+        name: "Styled Components",
+        type: "Frontend",
+    },
+    {
+        imageUrl: threejs,
+        name: "Three.js",
+        type: "Frontend",
+    },
+    {
+        imageUrl: axios,
+        name: "Axios",
+        type: "Library",
+    },
+    {
+        imageUrl: mongodb,
+        name: "MongoDB",
+        type: "Database",
+    },
+    {
+        imageUrl: firebase,
+        name: "Firebase",
+        type: "Database",
+    },
+    {
+        imageUrl: sqlite,
+        name: "Sqlite",
+        type: "Database",
+    },
+    {
+        imageUrl: mysql,
+        name: "MySQL",
+        type: "Database",
+    },
+    {
+        imageUrl: nodejs,
+        name: "Node.js",
+        type: "Backend",
+    },
+    {
+        imageUrl: django,
+        name: "Django",
+        type: "Backend",
+    },
+    {
+        imageUrl: flask,
+        name: "Flask",
         type: "Backend",
     },
     {
@@ -48,65 +144,15 @@ export const skills = [
         type: "Version Control",
     },
     {
-        imageUrl: html,
-        name: "HTML",
-        type: "Frontend",
+        imageUrl: android_studio,
+        name: "Android Studio",
+        type: "IDE"
     },
     {
-        imageUrl: javascript,
-        name: "JavaScript",
-        type: "Frontend",
+        imageUrl: postman,
+        name: "Postman",
+        type: "Tools",
     },
-    {
-        imageUrl: mongodb,
-        name: "MongoDB",
-        type: "Database",
-    },
-    {
-        imageUrl: motion,
-        name: "Motion",
-        type: "Animation",
-    },
-    {
-        imageUrl: mui,
-        name: "Material-UI",
-        type: "Frontend",
-    },
-    {
-        imageUrl: nextjs,
-        name: "Next.js",
-        type: "Frontend",
-    },
-    {
-        imageUrl: nodejs,
-        name: "Node.js",
-        type: "Backend",
-    },
-    {
-        imageUrl: react,
-        name: "React",
-        type: "Frontend",
-    },
-    {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
-    },
-    {
-        imageUrl: sass,
-        name: "Sass",
-        type: "Frontend",
-    },
-    {
-        imageUrl: tailwindcss,
-        name: "Tailwind CSS",
-        type: "Frontend",
-    },
-    {
-        imageUrl: typescript,
-        name: "TypeScript",
-        type: "Frontend",
-    }
 ];
 
 export const experiences = [
