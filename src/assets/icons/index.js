@@ -26,8 +26,30 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
+import django from './django.svg'
+import flask from './flask.svg'
+import firebase from './firebase.svg'
+import sqlite from './sqlite.svg'
+import android_studio from './android_studio.svg'
+import flutter from './flutter.svg'
+import axios from './axios.svg'
+import styled_component from './styled_components.svg'
+import mysql from './mysql.svg'
+import postman from './postman.svg'
+import threejs from './threejs.svg'
 
 export {
+    threejs,
+    postman,
+    mysql,
+    styled_component,
+    axios,
+    flutter,
+    android_studio,
+    sqlite,
+    firebase,
+    flask,
+    django,
     css,
     express,
     git,
