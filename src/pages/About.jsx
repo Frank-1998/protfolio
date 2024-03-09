@@ -17,7 +17,17 @@ const About = () => {
         </span>
       </h1>
       <div className="mt-5 flex flex-col gap-3 text-slate-500">
-        <p>About paragrph.</p>
+        <p>
+          Aspiring computer science student with a passion for technology and a
+          strong desire to continuously improve my skills. Seeking a challenging
+          and dynamic internship in the tech industry to apply my theoretical
+          knowledge in real-world scenarios and gain hands-on experience.
+          Proficient in programming languages such as Java, Python, and C++, and
+          experienced in developing web applications using frameworks like
+          Django and Flask. Committed to delivering high-quality work and
+          constantly seeking to expand my knowledge through new and exciting
+          projects.
+        </p>
       </div>
       <div className="py-10 flex flex-col">
         <h3 className="subhead-text">My Skills</h3>
@@ -57,13 +67,13 @@ const About = () => {
                   </div>
                 }
                 iconStyle={{
-                  background: experience.iconBg
+                  background: experience.iconBg,
                 }}
                 contentStyle={{
-                  borderBottom: '8px',
-                  borderStyle: 'solid',
+                  borderBottom: "8px",
+                  borderStyle: "solid",
                   borderBottomColor: experience.iconBg,
-                  boxShadow: 'none',
+                  boxShadow: "none",
                 }}
               >
                 <div>
@@ -92,7 +102,7 @@ const About = () => {
           </VerticalTimeline>
         </div>
       </div>
-      <hr className="border-slate-200"/>
+      <hr className="border-slate-200" />
       <CTA></CTA>
     </section>
   );
