@@ -37,8 +37,24 @@ import styled_component from './styled_components.svg'
 import mysql from './mysql.svg'
 import postman from './postman.svg'
 import threejs from './threejs.svg'
+import python from './python.svg'
+import c from "./cLanguage.svg"
+import java from './java.svg'
+import lisp from './commonLisp.svg'
+import php from './php.svg'
+import ubuntu from './ubuntu.svg'
+import arch from './arch.svg'
+import docker from './docker.svg'
 
 export {
+    docker,
+    arch,
+    ubuntu,
+    php,
+    lisp,
+    java,
+    c,
+    python,
     threejs,
     postman,
     mysql,

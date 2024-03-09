@@ -35,6 +35,14 @@ import {
     mysql,
     postman,
     threejs,
+    python,
+    c,
+    java,
+    lisp,
+    php,
+    ubuntu,
+    arch,
+    docker,
 } from "../assets/icons";
 
 export const skills = [
@@ -149,9 +157,49 @@ export const skills = [
         type: "IDE"
     },
     {
+        imageUrl: java,
+        name: "Java",
+        type: "Programming Language",
+    },
+    {
         imageUrl: postman,
         name: "Postman",
         type: "Tools",
+    },
+    {
+        imageUrl: python,
+        name: "Python",
+        type: "Programming Language",
+    },
+    {
+        imageUrl: c,
+        name: "C",
+        type: "Programming Language",
+    },
+    {
+        imageUrl: lisp,
+        name: "Common Lisp",
+        type: "Programming Language",
+    },
+    {
+        imageUrl: php,
+        name: "PHP",
+        type: "Server Language",
+    },
+    {
+        imageUrl: ubuntu,
+        name: "Ubuntu",
+        type: "Operating System",
+    },
+    {
+        imageUrl: arch,
+        name: "Arch Linux",
+        type: "Operating System",
+    },
+    {
+        imageUrl: docker,
+        name: "Docker",
+        type: "Container",
     },
 ];
 
