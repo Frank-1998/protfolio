@@ -22,9 +22,9 @@ const About = () => {
           strong desire to continuously improve my skills. Seeking a challenging
           and dynamic internship in the tech industry to apply my theoretical
           knowledge in real-world scenarios and gain hands-on experience.
-          Proficient in programming languages such as Java, Python, and C++, and
+          Proficient in programming languages such as Java, Python, and C, and
           experienced in developing web applications using frameworks like
-          Django and Flask. Committed to delivering high-quality work and
+          React, Vite, and .NET. Committed to delivering high-quality work and
           constantly seeking to expand my knowledge through new and exciting
           projects.
         </p>
