@@ -45,8 +45,10 @@ import php from './php.svg'
 import ubuntu from './ubuntu.svg'
 import arch from './arch.svg'
 import docker from './docker.svg'
+import email from './email.svg'
 
 export {
+    email,
     docker,
     arch,
     ubuntu,

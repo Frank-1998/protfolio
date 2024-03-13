@@ -39,6 +39,7 @@ import {
     ubuntu,
     arch,
     docker,
+    email,
 } from "../assets/icons";
 
 export const skills = [
@@ -240,18 +241,18 @@ export const experiences = [
 export const socialLinks = [
     {
         name: 'Contact',
-        iconUrl: contact,
+        iconUrl: email,
         link: '/contact',
     },
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/Frank-1998',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/ziang-li-696494234',
     }
 ];
 
